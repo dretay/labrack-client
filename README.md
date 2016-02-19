@@ -1,4 +1,4 @@
-mimosa-browserify-example
+Client project for the lab rack 
 =========================
 
-Mimosa default project reworked for browserify. Requires mimosa v1.0.0-rc4 or higher.
+Browserify React Mimosa client
