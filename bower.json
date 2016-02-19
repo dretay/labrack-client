@@ -1,0 +1,8 @@
+{
+  "name": "Seneschal Home Automation Client",
+  "version": "2.0",
+  "dependencies": {
+    "jquery": "*",
+    "marked": "0.3.x"
+  }
+}
